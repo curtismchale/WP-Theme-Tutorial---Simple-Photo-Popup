@@ -1,0 +1,9 @@
+.thwp-photo-gallery-wrapper{width:100%; margin:20px 0; overflow:hidden;}
+
+.thwp-photo-gallery-wrapper .thwp_photo_gallery{width:200px; height:200px; float:left; margin:5px 5px;}
+
+.thwp-photo-gallery-wrapper a:hover{text-decoration:none;}
+
+/* === fancybox overrides === */
+.fancybox-wrap .wp-post-image{display:block; clear:both;}
+.fancybox-wrap .popup-caption{margin:10px 0; font-size:14px;}
