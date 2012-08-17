@@ -20,6 +20,8 @@ Photos can be displayed on any post or page by using the
 The size of the image that shows in the popup is controlled by the
 medium images size found under Settings/Media
 
+See screenshots in the plugin for an idea of how it will look.
+
 == Installation ==
 
 1. Extract to your wp-content/plugins/ folder.
