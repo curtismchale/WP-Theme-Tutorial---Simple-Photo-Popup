@@ -72,7 +72,7 @@ add_action( 'init', 'theme_t_wp_photo_gallery' );
  * @uses    wp_enqueue_style
  *
  * @since   1.0
- * @author  SFNdesign, Curtis McHale
+ * @author  WP Theme Tutorial, Curtis McHale
  */
 function theme_t_wp_photo_gallery_theme_styles_scripts(){
 
@@ -94,7 +94,7 @@ add_action( 'wp_enqueue_scripts', 'theme_t_wp_photo_gallery_theme_styles_scripts
  * Gets our content for the photo popup
  *
  * @since   1.0
- * @author  SFNdesign, Curtis McHale
+ * @author  WP Theme Tutorial, Curtis McHale
  */
 function theme_t_wp_get_photo_popup(){
 
@@ -121,7 +121,7 @@ add_action( 'wp_ajax_nopriv_get_photo', 'theme_t_wp_get_photo_popup' );
  * Creates a shortcode that shows the photo gallery information
  *
  * @since   1.0
- * @author  SFNdesign, Curtis McHale
+ * @author  WP Theme Tutorial, Curtis McHale
  */
 function theme_t_wp_display_photo_gallery(){ ?>
 
